@@ -10,7 +10,7 @@ Important
 ###################
 
 1. Please ensure in your local server had MongoDB Client
-2. Please import 4 database collection
+2. Please import 4 database collection (json files are kept in database folder)
 3. Admin login url http://localhost/school/index.php/adminlogin
 4. Student login url http://localhost/school/index.php/login
 
