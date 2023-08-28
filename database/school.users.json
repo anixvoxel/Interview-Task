@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "64ea55a7d02fce4aab2174b8"
+  },
+  "name": "Aneesh123",
+  "rollnumber": "123456",
+  "department": {
+    "$oid": "64ec5ae9ba8b1eac0fc15976"
+  },
+  "batch": "2022-2023",
+  "gender": "Male",
+  "mobile": "9809535385",
+  "address": "Trivandrum",
+  "userType": "student",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "64eb8bb25ae99ca3e95b3857"
+  },
+  "name": "Aneesh1",
+  "rollnumber": "123457",
+  "department": {
+    "$oid": "64ec5ae9ba8b1eac0fc15976"
+  },
+  "batch": "2022-2023",
+  "gender": "Male",
+  "mobile": "9809535385",
+  "address": "Trivandrum",
+  "userType": "student",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "64eb8bb85ae99ca3e95b3858"
+  },
+  "name": "Aneesh2",
+  "rollnumber": "123458",
+  "department": {
+    "$oid": "64ec5ae9ba8b1eac0fc15975"
+  },
+  "batch": "2022-2023",
+  "gender": "Male",
+  "mobile": "9809535385",
+  "address": "Trivandrum",
+  "userType": "student",
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "64ed0415f32a0000ff005afd"
+  },
+  "name": "Arun",
+  "mobile": "9998887774",
+  "rollnumber": "123459",
+  "batch": "2022-2023",
+  "gender": "Male",
+  "address": "BN 335, Bapiji nager, Pogumoodu",
+  "status": "Active",
+  "department": {
+    "$oid": "64ec5ae9ba8b1eac0fc15976"
+  },
+  "userType": "student"
+}]

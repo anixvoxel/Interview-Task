@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "64ec5ae9ba8b1eac0fc15975"
+  },
+  "department": "Computer Science"
+},
+{
+  "_id": {
+    "$oid": "64ec5ae9ba8b1eac0fc15976"
+  },
+  "department": "Biology"
+}]
